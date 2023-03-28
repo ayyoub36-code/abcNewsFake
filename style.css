@@ -2,7 +2,20 @@ a:hover {
     text-decoration: underline !important;
     color: black !important;
 }
+.divNav{
+    margin-left: 9% !important;
+}
 
 a h6 {
     width: fit-content;
+}
+
+.bottom-left{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.containe{
+    position: relative;
+    color: azure;
 }
