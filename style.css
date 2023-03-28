@@ -1,0 +1,8 @@
+a:hover {
+    text-decoration: underline !important;
+    color: black !important;
+}
+
+a h6 {
+    width: fit-content;
+}
